@@ -20,7 +20,7 @@ O objetivo desse tutorial é se familiarizar com alguns componentes básicos de 
 5. * [x] Na activity `AlterarPrecosActivity`
    - * [x] Altere os servicos de exemplo para alguns da sua equipe
    - * [x] Em `setSpinner`, altere a filtragem de serviço geral para específico ajustando o `when(position)` 
-6. * [x]  Crie uma nova Activity `Novo Pedido` para visualização dos serviços a serem prestados, que abrirá ao clicar em "RECEBER", na tela principal
+6. * []  Crie uma nova Activity `Novo Pedido` para visualização dos serviços a serem prestados, que abrirá ao clicar em "RECEBER", na tela principal
 7. * [ ]  Implemente a ListView para exibir os itens de forma semelhante à listagem de preços, porém:
    - * [ ] O botão "EDITAR" deve ser trocado por "INCLUIR"
    - * [ ] Acrescente alguns `TextView` para incluir informações específicas em cada item do tipo de serviço da sua equipe
