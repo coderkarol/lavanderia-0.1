@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">DemoMyLaundry</string>
+    <string name="ler_arquivo_web">Ler Arquivo Web</string>
+    <string name="digitar_dados">Digitar Dados</string>
+    <string name="nome_fantasia">Nome Fantasia</string>
+    <string name="telefone">Telefone</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="endereco">Endereço</string>
+    <string name="baixar">Baixar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="saldo_atual">Saldo Atual</string>
+    <string name="salvar">Salvar</string>
+    <string name="hoje">Hoje</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="receber">Receber</string>
+    <string name="entregar">Entregar</string>
+    <string name="fechar_caixa">Fechar Caixa</string>
+    <string name="total_dia">Total Dia</string>
+    <string name="total_mes">Total Mês</string>
+    <string name="numero_clientes"># Clientes:</string>
+    <string name="pgto_credito">Pagtos. Credito</string>
+    <string name="pgto_debito">Pagtos. Debito</string>
+    <string name="pgto_dinheiro">Pagtos. Dinheiro</string>
+    <string name="imprimir">Imprimir</string>
+    <string name="voltar">Voltar</string>
+    <string name="sair">Sair</string>
+    <string name="fechamento">Fechamento</string>
+    <string name="imprimindo">Imprimindo</string>
+    <string name="impressao_iniciada">Impressão Iniciada!</string>
+    <string name="ler_web">Ler Web</string>
+    <string name="arquivo_baixado">Arquivo Baixado com Sucesso!</string>
+    <string name="inicializacao">Inicialização</string>
+    <string name="caixa">Caixa</string>
+    <string name="caixa_fechado">O caixa foi fechado</string>
+    <string name="preco">Preço</string>
+    <string name="digite_preco">Digite o novo preço</string>
+    <string name="ok">OK</string>
+    <string name="servicos">Serviços</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="arquivo_web">Arquivo Web</string>
+    <string name="manual">Manual</string>
+    <string name="alterar_tabela_precos">Deseja alterar a Tabela de Preços?</string>
+    <string name="alterar_preco">Alterar Preço</string>
+    <string name="tabela_precos">Tabela de Preços</string>
+    <string name="link_para_arquivo">Link para Arquivo</string>
+    <string name="cadastro_exmpresa">Cadastro de Empresa</string>
+    <string name="msg_btn_alterar_tabela_preco">Alterar Tabela Preço</string>
+    <string name="msg_btn_abrir_caixa">Abrir Caixa</string>
+    <string name="real_simbolo">R$</string>
+    <string name="mgs_btn_editar">Editar</string>
+
+    <string-array name="tipos_servico">
+        <item>Selecione</item>
+        <item>Lavagem Simples (kg)</item>
+        <item>Lavagem Especial</item>
+        <item>Engomar</item>
+    </string-array>
+</resources>

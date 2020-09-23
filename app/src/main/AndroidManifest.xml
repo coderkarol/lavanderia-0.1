@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.uea.mypay.tutoriais.demomylaundry">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:allowBackup="true">
+        <activity android:name=".activities.InicializacaoActivity" />
+        <activity android:name=".activities.FecharCaixaActivity" />
+        <activity android:name=".activities.AlterarPrecosActivity" />
+        <activity android:name=".activities.AbrirCaixaActivity" />
+        <activity android:name=".activities.OperacaoActivity" />
+        <activity
+            android:name=".activities.CadastroManualActivity"
+            android:parentActivityName=".activities.CadastroActivity" />
+        <activity
+            android:name=".activities.CadastroWebActivity"
+            android:parentActivityName=".activities.CadastroActivity" />
+        <activity android:name=".activities.CadastroActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
